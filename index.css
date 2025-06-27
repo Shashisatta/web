@@ -1,0 +1,23 @@
+.con2{
+    background-color: rgb(238, 49, 49);
+    width: 600px;
+    height:200px;
+    
+}
+.dot{
+  height: 100px;
+  width: 100px;
+  background-color: #dac5c5;
+  border-radius: 50%;
+  position:relative;
+  margin-top: 25%;
+ }
+  
+.con4{
+    background-color: rgb(245, 241, 125);
+    width: 600px;
+    height:400px;
+    text-align: center;
+    font-size: 10;
+    justify-content: center;
+}
